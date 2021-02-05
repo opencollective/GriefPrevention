@@ -1,3 +1,4 @@
+G
 # GriefPrevention - Minecraft anti-griefing plugin
 
 Stop responding to grief and prevent it instead. Grief Prevention will solve
